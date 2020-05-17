@@ -1,0 +1,1 @@
+-d3d9ex -nojoy -noforcemparms -noforcemaccel -novid -refresh 60 +mat_queue_mode 2 +exec autoexec.cfg -tickrate 128 -console -language bananagaming +fps_max 150 -no-browser
